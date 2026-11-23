@@ -6,8 +6,8 @@
 // • If logged in with any other role, log "Welcome, User".
 
 let isLoggedIn = false;
-// let role = "admin";
-let role = "guest";
+let role = "admin";
+// let role = "guest";
 
 
 if(isLoggedIn === false){

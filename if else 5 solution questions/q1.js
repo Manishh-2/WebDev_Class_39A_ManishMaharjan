@@ -6,7 +6,7 @@
 
 
 let final_price = 0;
-let price = 40;
+let price = 20;
 
 if(price >= 100){
     final_price = price - (price * 0.2);
